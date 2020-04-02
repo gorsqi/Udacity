@@ -1,0 +1,83 @@
+Quantos passageiros havia em cada classe do navio?
+
+Quantas mulheres havia a bordo do navio?
+
+Quantos homens havia a bordo do navio?
+
+Qual a média das idades das mulheres?
+
+Qual a média das idades dos homens?
+
+Qual a idade da mulher mais idosa?
+
+Qual a idade do homem mais idoso?
+
+Quantas mulheres havia em cada classe do navio?
+
+Quantos homens havia em cada classe do navio?
+
+Qual era a porcentagem de homens em cada classe do navio?
+
+Qual a média de idade das mulheres em cada classe do navio?
+
+Qual a média de idade dos homens em cada classe do navio?
+
+Quantos passageiros viajavam acompanhados de membros da família?
+
+Quantos passageiros viajavam desacompanhados de membros da família?
+
+Quantos passageiros embarcaram em cada porto?
+
+Quantos passageiros embarcaram em cada classe em cada porto?
+
+Qual o valor médio do tíquete para cada classe?
+
+Quantas vezes o tíquete da primeira classe era mais caro que o da segunda?
+
+Quantas vezes o tíquete da segunda classe era mais caro que o da terceira?
+
+Quantas vezes o tíquete da primeira classe era mais caro que o da terceira?
+
+Qual o valor médio do tíquete em cada classe para aqueles que viajavam com membros da família?
+
+Qual o valor médio do tíquete em cada classe para aqueles que viajavam desacompanhados da família?
+
+Qual o valor médio do tíquete para crianças em cada classe?
+
+Qual o valor médio do tíquete para mulheres em cada classe?
+
+Qual o valor médio do tíquete para homens em cada classe?
+
+Qual o valor médio do tíquete para idosos em cada classe?
+
+Qual a idade média dos sobreviventes do naufrágio?
+
+Qual a idade média das vítimas do naufrágio?
+
+Qual a idade do sobrevivente mais novo?
+
+Qual a idade da vítima mais nova?
+
+Qual a idade do sobrevivente mais idoso?
+
+Qual a idade da vítima mais idosa?
+
+Qual a porcentagem de sobreviventes em cada classe do navio?
+
+Qual a porcentagem de sobreviventes entre as crianças?
+
+Qual a porcentagem de sobreviventes entre as mulheres?
+
+Qual a porcentagem de sobreviventes entre os homens?
+
+Qual a porcentagem de sobreviventes entre os idosos?
+
+Qual a porcentagem de sobreviventes entre os que viajavam com a família?
+
+Qual a porcentagem de sobreviventes entre os que viajavam desacompanhados?
+
+Qual o valor médio dos tíquetes de sobreviventes em cada classe do navio?
+
+Qual o valor médio dos tíquetes das vítimas em cada classe do navio?
+
+Quais fatores contribuíram para a sobrevivência dos passageiros a bordo?
